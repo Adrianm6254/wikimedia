@@ -1,0 +1,6 @@
+name: wikimedia
+recipe: pantheon
+config:
+  framework: drupal8
+  site: wikimedia
+  id: 4071b4a5-c813-496a-b535-ae37b7694140

@@ -1,0 +1,14 @@
+uuid: 9a7dfd42-7cdc-4b17-9880-95c2542d37cc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - amckee@net2community.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
